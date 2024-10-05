@@ -72,6 +72,6 @@ Option 2: Regular Expressions to create Contacts dataframe.
 
 - Verified the table creation by running a SELECT statement for each table.
 
-- Imported each CSV file into its corresponding SQL table using import functionality in posTables are to be populated in the same order as these were created.
+- Imported each CSV file into its corresponding SQL table using import functionality in Postgres. Tables are to be populated in the same order as these were created.
 
 - Verified that each table has the correct data by running a SELECT statement for each.
